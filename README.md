@@ -1,2 +1,2 @@
-# Columbia_Engineering_Data_Analytics_Project_3
-Summary of Columbia Engineering Data Analytics Product_3
+# Project-3
+Columbia University Bootcamp Project 3

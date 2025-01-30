@@ -1,0 +1,201 @@
+Year,State,COVID-19 Deaths
+2020.0,Alabama,6706.0
+2021.0,Alabama,9719.0
+2022.0,Alabama,4224.0
+2023.0,Alabama,864.0
+2020.0,Alaska,253.0
+2021.0,Alaska,839.0
+2022.0,Alaska,330.0
+2023.0,Alaska,69.0
+2020.0,Arizona,9321.0
+2021.0,Arizona,14060.0
+2022.0,Arizona,5905.0
+2023.0,Arizona,1023.0
+2020.0,Arkansas,4027.0
+2021.0,Arkansas,5336.0
+2022.0,Arkansas,2772.0
+2023.0,Arkansas,526.0
+2020.0,California,33486.0
+2021.0,California,48334.0
+2022.0,California,22423.0
+2023.0,California,4887.0
+2020.0,Colorado,5073.0
+2021.0,Colorado,6207.0
+2022.0,Colorado,3413.0
+2023.0,Colorado,689.0
+2020.0,Connecticut,6291.0
+2021.0,Connecticut,3153.0
+2022.0,Connecticut,2580.0
+2023.0,Connecticut,549.0
+2020.0,Delaware,1097.0
+2021.0,Delaware,1266.0
+2022.0,Delaware,867.0
+2023.0,Delaware,217.0
+2020.0,Florida,21828.0
+2021.0,Florida,38875.0
+2022.0,Florida,16896.0
+2023.0,Florida,4268.0
+2020.0,Georgia,10435.0
+2021.0,Georgia,17310.0
+2022.0,Georgia,7228.0
+2023.0,Georgia,1509.0
+2020.0,Hawaii,365.0
+2021.0,Hawaii,744.0
+2022.0,Hawaii,639.0
+2023.0,Hawaii,195.0
+2020.0,Idaho,1541.0
+2021.0,Idaho,2785.0
+2022.0,Idaho,1084.0
+2023.0,Idaho,204.0
+2020.0,Illinois,16721.0
+2021.0,Illinois,11788.0
+2022.0,Illinois,8718.0
+2023.0,Illinois,1494.0
+2020.0,Indiana,9776.0
+2021.0,Indiana,10056.0
+2022.0,Indiana,6030.0
+2023.0,Indiana,1034.0
+2020.0,Iowa,4769.0
+2021.0,Iowa,3526.0
+2022.0,Iowa,2242.0
+2023.0,Iowa,488.0
+2020.0,Kansas,3504.0
+2021.0,Kansas,3806.0
+2022.0,Kansas,2408.0
+2023.0,Kansas,434.0
+2020.0,Kentucky,4619.0
+2021.0,Kentucky,8696.0
+2022.0,Kentucky,5758.0
+2023.0,Kentucky,1208.0
+2020.0,Louisiana,7066.0
+2021.0,Louisiana,6919.0
+2022.0,Louisiana,3113.0
+2023.0,Louisiana,616.0
+2020.0,Maine,465.0
+2021.0,Maine,1433.0
+2022.0,Maine,1048.0
+2023.0,Maine,285.0
+2020.0,Maryland,6731.0
+2021.0,Maryland,6101.0
+2022.0,Maryland,4314.0
+2023.0,Maryland,994.0
+2020.0,Massachusetts,10188.0
+2021.0,Massachusetts,5579.0
+2022.0,Massachusetts,4334.0
+2023.0,Massachusetts,1141.0
+2020.0,Michigan,12290.0
+2021.0,Michigan,14945.0
+2022.0,Michigan,8111.0
+2023.0,Michigan,1695.0
+2020.0,Minnesota,5834.0
+2021.0,Minnesota,5181.0
+2022.0,Minnesota,3360.0
+2023.0,Minnesota,918.0
+2020.0,Mississippi,5120.0
+2021.0,Mississippi,5907.0
+2022.0,Mississippi,3189.0
+2023.0,Mississippi,696.0
+2020.0,Missouri,8059.0
+2021.0,Missouri,8945.0
+2022.0,Missouri,5432.0
+2023.0,Missouri,936.0
+2020.0,Montana,1269.0
+2021.0,Montana,1816.0
+2022.0,Montana,728.0
+2023.0,Montana,150.0
+2020.0,Nebraska,2253.0
+2021.0,Nebraska,1939.0
+2022.0,Nebraska,1296.0
+2023.0,Nebraska,327.0
+2020.0,Nevada,3527.0
+2021.0,Nevada,5645.0
+2022.0,Nevada,2713.0
+2023.0,Nevada,374.0
+2020.0,New Hampshire,828.0
+2021.0,New Hampshire,1204.0
+2022.0,New Hampshire,821.0
+2023.0,New Hampshire,257.0
+2020.0,New Jersey,18144.0
+2021.0,New Jersey,9605.0
+2022.0,New Jersey,6569.0
+2023.0,New Jersey,1341.0
+2020.0,New Mexico,2884.0
+2021.0,New Mexico,3705.0
+2022.0,New Mexico,2007.0
+2023.0,New Mexico,366.0
+2020.0,New York,16124.0
+2021.0,New York,14803.0
+2022.0,New York,9089.0
+2023.0,New York,2163.0
+2020.0,North Carolina,8784.0
+2021.0,North Carolina,15234.0
+2022.0,North Carolina,8381.0
+2023.0,North Carolina,1982.0
+2020.0,North Dakota,1513.0
+2021.0,North Dakota,939.0
+2022.0,North Dakota,538.0
+2023.0,North Dakota,112.0
+2020.0,Ohio,15097.0
+2021.0,Ohio,20536.0
+2022.0,Ohio,11968.0
+2023.0,Ohio,2139.0
+2020.0,Oklahoma,5248.0
+2021.0,Oklahoma,7850.0
+2022.0,Oklahoma,4561.0
+2023.0,Oklahoma,853.0
+2020.0,Oregon,1607.0
+2021.0,Oregon,4190.0
+2022.0,Oregon,2799.0
+2023.0,Oregon,629.0
+2020.0,Pennsylvania,18407.0
+2021.0,Pennsylvania,20546.0
+2022.0,Pennsylvania,11639.0
+2023.0,Pennsylvania,2441.0
+2020.0,Rhode Island,1918.0
+2021.0,Rhode Island,1217.0
+2022.0,Rhode Island,768.0
+2023.0,Rhode Island,176.0
+2020.0,South Carolina,5697.0
+2021.0,South Carolina,9497.0
+2022.0,South Carolina,4571.0
+2023.0,South Carolina,1074.0
+2020.0,South Dakota,1715.0
+2021.0,South Dakota,987.0
+2022.0,South Dakota,633.0
+2023.0,South Dakota,136.0
+2020.0,Tennessee,7927.0
+2021.0,Tennessee,13705.0
+2022.0,Tennessee,7221.0
+2023.0,Tennessee,1547.0
+2020.0,Texas,33535.0
+2021.0,Texas,48787.0
+2022.0,Texas,18601.0
+2023.0,Texas,3474.0
+2020.0,Utah,1657.0
+2021.0,Utah,2671.0
+2022.0,Utah,1333.0
+2023.0,Utah,207.0
+2020.0,Vermont,146.0
+2021.0,Vermont,312.0
+2022.0,Vermont,387.0
+2023.0,Vermont,131.0
+2020.0,Virginia,6156.0
+2021.0,Virginia,9668.0
+2022.0,Virginia,6002.0
+2023.0,Virginia,1306.0
+2020.0,Washington,3701.0
+2021.0,Washington,6165.0
+2022.0,Washington,4155.0
+2023.0,Washington,1043.0
+2020.0,West Virginia,1560.0
+2021.0,West Virginia,3938.0
+2022.0,West Virginia,2360.0
+2023.0,West Virginia,476.0
+2020.0,Wisconsin,6286.0
+2021.0,Wisconsin,6076.0
+2022.0,Wisconsin,3910.0
+2023.0,Wisconsin,794.0
+2020.0,Wyoming,461.0
+2021.0,Wyoming,963.0
+2022.0,Wyoming,353.0
+2023.0,Wyoming,77.0
